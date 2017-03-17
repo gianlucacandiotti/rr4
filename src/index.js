@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import T14 from './T14';
+import './App.css';
 
 ReactDOM.render(
-  <App />,
+  <T14 />,
   document.getElementById('root')
 );
